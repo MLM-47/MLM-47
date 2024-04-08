@@ -18,8 +18,8 @@ src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mikelevix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mikelevix" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mike-levix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mike-levix" height="30" width="40" /></a>
-<a href="https://fb.com/mikelevix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mikelevix" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mike levix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mike levix" height="30" width="40" /></a>
+<a href="https://fb.com/mike levix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mike levix" height="30" width="40" /></a>
 <a href="https://hashnode.com/@mikelevix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mikelevix" height="30" width="40" /></a>
 </p>
 
