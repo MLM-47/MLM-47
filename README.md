@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mike levix</h1>
 <p align="left">I'm a Kenyan data analyst. A dedicated data enthusiast who decided to focus entirely on the field after realizing how enjoyable working with data can be. Curiosity drew me into the world of data, and I quickly discovered that I was in love with the process of concluding from unprocessed data. The ability of data to inform choices and change companies captivated me. I chose to devote my time to studying everything there is to know about data, from the foundations to the tools. I now know a lot about SQL and Excel. utilizing Power BI, Tableau, and Python.</p>
-<img align="right" alt="Coding" width="400"
-src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
+
+<img align="right" alt="Coding" width="400"src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mlm-47&label=Profile%20views&color=0e75b6&style=flat" alt="mlm-47" /> </p>
 
